@@ -5,7 +5,7 @@ they only need to purchase 2 relay modules instead of purchasing additional cont
 <br/>This device can be easily installed and configured by any user with basic electrical knowledge. Our mobile app allows users to control the devices from anywhere in the world. You can also control the device using Google Home and Google Assistant.
 <br/>
 <br/>
-This repository contains the AWS lambda Python code and code for ESP 32 control module.
+This repository contains the [AWS lambda Python code](to_esp/lambda_function.py) and [code for ESP 32 control module](esp_32).
 ## Other marerials
 - [Circuit diagram](circuit_diagram.png)
 - [Esp 32 Pcb design](esp_final.pdf)
